@@ -8,7 +8,6 @@ This project has been developed as a part of the **MSci Computer Science (Artifi
 
 ## Project Structure
 
-.
 ├── GA_code
 │   ├── Test
 │   │   ├── parameters.py

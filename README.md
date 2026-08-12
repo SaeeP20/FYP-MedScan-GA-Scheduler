@@ -8,6 +8,7 @@ This project has been developed as a part of the **MSci Computer Science (Artifi
 
 ## Project Structure
 
+.
 ├── GA_code
 │   ├── Test
 │   │   ├── parameters.py
@@ -15,16 +16,18 @@ This project has been developed as a part of the **MSci Computer Science (Artifi
 │   │   ├── test_UI.py
 │   ├── GA_firstPT.py
 │   ├── GA_UI.py
-│   ├── local_search.py
+│   └── local_search.py
 ├── Supporting_files
 │   ├── Test
 │   │   ├── test_patients.csv
 │   │   ├── test_schedule.xlsx
 │   ├── patients.csv
 │   ├── schedule.xlsx
-│   ├── requirements.txt
+│   └── requirements.txt
 ├── diary.md
-├── README.md
+└── README.md
+
+---
 
 ## How to Run Program
 

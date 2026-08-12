@@ -1,0 +1,26 @@
+patient_id,name,preferred_day,preferred_time,preferred_slot
+1,Aisha Khan,Mon,AM,0.0
+2,Daniel Roberts,Tue,02:00,17.0
+3,Priya Patel,Any,Any,
+4,James Wilson,Mon,09:00,0.0
+5,Sofia Martinez,Wed,PM,28.0
+6,Michael Brown,Tue,10:00,13.0
+7,Emily Carter,Thu,PM,40.0
+8,Arjun Mehta,Any,AM,
+9,Olivia Green,Mon,03:00,6.0
+10,Noah Thompson,Wed,Any,
+11,Zara Ali,Fri,09:00,48.0
+12,Ethan Walker,Any,PM,
+13,Mei Lin,Tue,11:00,14.0
+14,Lucas Pereira,Mon,PM,4.0
+15,Hannah Scott,Fri,Any,
+16,Rahul Verma,Any,08:00,
+17,Isabella Rossi,Wed,PM,28.0
+18,Tom Hughes,Tue,10:00,13.0
+19,Amira Hassan,Mon,Any,
+20,Jack Miller,Any,PM,
+21,Nina Kowalski,Wed,01:00,28.0
+22,Leo Nguyen,Tue,PM,16.0
+23,Sarah Bennett,Mon,Any,
+24,Omar El-Sayed,Thu,08:00,47.0
+25,Chloe Adams,Any,Any,
